@@ -1,0 +1,271 @@
+body {
+	font-family: Arial;
+
+	text-align: center
+}
+#divbody {
+	width: 798px;
+	height: 100%;
+	background-image: url('images/background-div.jpg');
+text-align: center	
+}
+#bar-menu {
+	border-style:solid;
+	border-width:0px;
+	width: 798px;
+	height:64px;
+	font-size: 13px;
+	color: #97BF0D;
+	font-weight: bold;
+	background-image: url('images/menubar.png');
+	padding-right: 20px;
+	padding-bottom: 8px;
+	text-align: right;
+}	
+#bar-basic {
+	border-style:solid;
+	border-width:0px;
+	width: 798px;
+	height:64px;
+	font-size: 13px;
+	color: #97BF0D;
+	font-weight: bold;
+	background-image: url('images/menubar-basic.png');
+	padding-right: 20px;
+	padding-bottom: 8px;
+	text-align: right;
+}
+#bar-ad {
+	/*background-image: url('images/bar-ad.png');*/
+	width: 500px;
+	height: 74px;
+	text-align: center;
+}
+#vip-login {
+	font-size: 11px;
+	color: #FFFFFF;
+	background-image: url('images/vip-login.png');
+	background-repeat: no-repeat;
+	width:198px;
+	padding-right:5px;
+}
+#first-message {
+	 font-size: 12px;
+	 color: #000000;
+	 padding: 15px;
+	 text-align:right;
+}
+#pass-bar {
+	font-size: 13px;
+	font-weight: bold;
+	height: 31px;
+	text-align: center;
+	padding-top:5px;
+}
+#pass-table {
+	height: 292px;
+	width: 100%;
+	vertical-align:top
+}
+#pass-block {
+	width: 665px;
+	padding: 20px;
+	background-image: url('images/X.png');
+	background-repeat: no-repeat;
+}
+#pass-block-info {
+	font-size: 13px;
+	color: #333333;
+	text-align: center;
+	padding-right: 15px;
+	height:30px
+}
+#pass-status {
+	text-align: center;
+	font-size: 12px;
+	color: #333333;
+	width: 128px;
+	height: 82px;
+	background-image: url('images/Y.png');
+	background-repeat: no-repeat;
+	vertical-align:top;
+}
+#pass-add {
+	font-size: 12px;
+	color: #000000;
+	width: 128px;
+	height: 63px;
+	vertical-align: top;
+	text-align: center;
+	background-image: url('images/AB.png');
+}
+#pass-on {
+	text-align: center;
+	width: 188px;
+	height: 95px;
+	font-size:12px;
+	vertical-align:middle;
+	font-weight:bold;
+	background-image:url('images/pon.png');
+}
+#pass-off {
+	text-align: center;
+	width: 188px;
+	height: 95px;
+	font-size:12px;
+	vertical-align:middle;
+	font-weight:bold;
+	background-image:url('images/poff.png');
+}
+#pass-pass-on {
+	height: 50%;
+	padding-top: 8px;
+	color: #008000;
+}
+#pass-pass-off {
+	height: 50%;
+	padding-top: 8px;
+	color: #CC0000;
+}
+#pass-info {
+	width: 60%;
+	height: 50%;
+	color: #333333;
+	text-align: right;
+	padding-right:12px;
+}
+#pass-time {
+	width: 40%;
+	height: 50%;
+	color: #333333;
+	text-align: left;
+	padding-left:12px;
+}
+#page-title {
+	font-size: 13px;
+	font-weight: bold;
+	height: 34px;
+	text-align: right;
+	padding-top:10px;
+	padding-right: 40px;
+	background-image:url('images/page-title.png');
+	background-repeat: no-repeat;
+}
+#page-center {
+	font-size: 13px;
+	width: 798px;
+	padding-right: 30px;
+	padding-left: 30px;
+	background-image:url('images/page-c-center.png');
+}
+#ad-center {
+	text-align: center;
+	height: 100px;
+	background-image: url('images/adbg-center.png');
+}
+#chat-box {
+	padding:20px;
+	width: 615px;
+	height: 585px;
+	background-image: url('images/chat-box.png');
+	vertical-align:top;
+}
+#chat-add {
+	width: 211px;
+	height: 101px;
+	background-image: url('images/chat-add.png');
+}
+#chat-side {
+	width: 211px;
+	height: 293px;
+	background-image: url('images/chat-side.png');
+	vertical-align:top;
+}
+#chat-m {
+	 width: 80%;
+	 color: #333333;
+	 font-size: 11px;
+	 vertical-align: middle;
+}
+#chat-side2 {
+	width: 211px;
+	height: 114px;
+	background-image: url('images/chat-sidebg.png');	
+}
+#footer {
+	border-top:3px solid #FFFFFF;
+	font-size: 12px;
+	vertical-align: middle;
+	color: #333333;
+	width: 798px;
+	height: 25px;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+a.linkgreen {
+	color: #97BF0D;
+	text-decoration:none;
+}
+a.linkgreen:hover {
+	color: #a0a0a0;
+	text-decoration:none;
+}
+a.linkwhite {
+	color: #ffffff;
+	text-decoration:none;
+}
+a.linkwhite:hover {
+	color: #97BF0D;
+	text-decoration:none;
+}
+a.linkblack {
+	color: #333333;
+	text-decoration:none;
+}
+a.linkblack:hover {
+	color: #97BF0D;
+	text-decoration:none;
+}
+
+h2, h3, h4 {
+	margin: 3px 0px;
+}
+
+#vladi h2 {
+	margin: 10px;
+	color: #97BF0D;
+}
+
+#vladi div {
+	margin: 10px;
+}
+
+#vladi form {
+	margin-bottom: 10px;
+}
+
+#vladi #loading {
+	display: none;
+}
+
+#vladi a {
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+	margin-bottom: 5px;
+	display: inline-block;
+}
+
+#vladi a:hover {
+	color: #a0a0a0;
+}
+
+#shail {
+	margin-right: -288px;
+	border: none;
+}
+
+#idcs {
+	margin-top: -15px;
+}

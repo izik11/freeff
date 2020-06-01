@@ -1,0 +1,11 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>404 דף לא נמצא</TITLE>
+<meta http-equiv="Refresh" content="2; URL=http://<!--#echo var="HTTP_HOST" -->">
+</HEAD><BODY>
+<H1>דף לא נמצא 404</H1>
+כתובת האתר הראשי:<Br>
+<a href="http://www.freeff.co.il">www.FreeFF.Co.iL</a> 
+<HR>
+<I><!--#echo var="HTTP_HOST" --></I>
+</BODY></HTML>
