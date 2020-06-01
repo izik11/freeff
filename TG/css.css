@@ -1,0 +1,88 @@
+BODY { background-color: #1c1c1c; margin-top: 0; margin-bottom: 0; margin-right: 0; margin-left: 0; font-size: 11pt; font-family: Arial; cursor: default;  } 
+FORM { margin-top: 0; margin-bottom: 0;  } 
+INPUT.Button { color: #000066; font-size: 11pt; font-family: Arial; background-color: #D6E7EF; border-top-color: #AFC4D5; border-top-width: 1px; border-top-style: solid; border-bottom-color: #104A7B; border-bottom-width: 1px; border-bottom-style: solid; border-right-color: #104A7B; border-right-width: 1px; border-right-style: solid; border-left-color: #AFC4D5; border-left-width: 1px; border-left-style: solid; cursor: pointer;  } 
+TEXTAREA { font-size: 11pt; font-family: Arial; border-top-color: #AFC4D5; border-top-width: 1px; border-top-style: solid; border-bottom-color: #104A7B; border-bottom-width: 1px; border-bottom-style: solid; border-right-color: #104A7B; border-right-width: 1px; border-right-style: solid; border-left-color: #AFC4D5; border-left-width: 1px; border-left-style: solid;  } 
+INPUT.Text { font-size: 11pt; font-family: Arial; border-top-color: #AFC4D5; border-top-width: 1px; border-top-style: solid; border-bottom-color: #104A7B; border-bottom-width: 1px; border-bottom-style: solid; border-right-color: #104A7B; border-right-width: 1px; border-right-style: solid; border-left-color: #AFC4D5; border-left-width: 1px; border-left-style: solid; padding-right: 4pt; padding-left: 4pt;  } 
+INPUT.TextI { color: #909090; font-size: 11pt; font-family: Arial; font-style: italic; border-top-color: #AFC4D5; border-top-width: 1px; border-top-style: solid; border-bottom-color: #104A7B; border-bottom-width: 1px; border-bottom-style: solid; border-right-color: #104A7B; border-right-width: 1px; border-right-style: solid; border-left-color: #AFC4D5; border-left-width: 1px; border-left-style: solid; padding-right: 4pt; padding-left: 4pt;  } 
+input.skin {font-family:arial;font-size:12px;
+SELECT { font-size: 11pt; font-family: Arial; border-top-color: #AFC4D5; border-top-width: 1px; border-top-style: solid; border-bottom-color: #104A7B; border-bottom-width: 1px; border-bottom-style: solid; border-right-color: #104A7B; border-right-width: 1px; border-right-style: solid; border-left-color: #AFC4D5; border-left-width: 1px; border-left-style: solid;  } 
+H1 { font-size: 11pt; font-weight: normal; display: inline };
+#A { color: #1346AC; text-decoration: none;  } 
+#A:hover { color: #1346AC; text-decoration:underline; }
+A { color: #FFF; text-decoration: none;  } 
+A:hover { color: #e1e1e1; text-decoration:underline; }
+TD.CurrentPageBefore { display:none; height: 22px;  } 
+TD.CurrentPageAfter { display: none;  } 
+TD.CurrentPage { padding-right:5pt; color: Black; font-size: 11pt; height: 22px;  } 
+TD.CurrentPage A { color: Black;  } 
+TD.Logo { border-bottom:solid 3px #3366CC; background-image: url(Images/Logo.gif); background-repeat: no-repeat; cursor: pointer; width: 254px; height: 86px; } 
+TD.LogoBefore {  } 
+TD.LogoMiddle { vertical-align:bottom;border-bottom:solid 3px #3366CC; background-position:right; background-repeat:repeat;background-image: url(Images/LogoBackground.gif); background-color:#A8BEF0; width: 166px} 
+TD.LogoAfter { border-bottom:solid 3px #3366CC; background-position:right;background-color:#A8BEF0; height: 86px; width:100%; padding-right: 7pt; padding-left: 7pt;  } 
+TD.BeforeSystemsRow { display:none; } 
+TD.SystemsRow { color: #505050; font-size: 11pt; padding-right: 6pt; padding-left: 6pt; text-align: center;  } 
+TD.SystemsRow A { color: #505050;  } 
+TD.SystemsRowBefore { display: none;  } 
+TD.SystemsRowAfter { background-color: #D0E0F0; width: 1pt; } 
+TD.HeaderMessages { font-size: 11pt; width: 100%;  } 
+TABLE.HeaderMessages { color: Black; font-size: 11pt;  } 
+TABLE.HeaderMessages A { color: Black;  } 
+TD.HeaderMessagesBefore { width: 4px; } 
+TD.HeaderMessagesAfter { display: none;  } 
+
+TABLE.MenuList { background-color: White; background-image: url(Images/MenuImage.jpg); background-repeat: repeat-y; border-color: #002D96; border-width: 1px; border-style: solid;  } 
+TABLE.MenuList TD { padding-top: 1pt; padding-bottom: 1pt; padding-right: 1pt; padding-left: 1pt; font-size: 11pt;  } 
+TABLE.MenuListRTL { background-color: White; background-image: url(Images/MenuImage.jpg); background-repeat: repeat-y; background-position: right; border-color: #002D96; border-width: 1px; border-style: solid;  } 
+TABLE.MenuListRTL TD { font-size: 11pt; padding-top: 1pt; padding-bottom: 1pt; padding-right: 1pt; padding-left: 1pt;  } 
+TABLE.MenuItem { margin-top: 1px; margin-bottom: 1px; margin-right: 1px; margin-left: 1px;  } 
+TABLE.MenuItem TD { margin-top: 0; margin-bottom: 0; margin-right: 0; margin-left: 0; padding-top: 0; padding-bottom: 0; padding-right: 0; padding-left: 0;  } 
+TABLE.MenuItemMouseOver { background-color: #FFEEC2; border-color: #000080; border-width: 1px; border-style: solid;  } 
+TABLE.MenuItemMouseOver TD { margin-top: 0; margin-bottom: 0; margin-right: 0; margin-left: 0; padding-top: 0; padding-bottom: 0; padding-right: 0; padding-left: 0; cursor: pointer;  } 
+TD.MenuItemSpace { width: 6px;  } 
+TD.MenuItemText { width: 100%;  } 
+TD.MenuItemImage { width: 20px; height: 20px;  } 
+TD.Bottom { color: #838385; font-size: 11pt; background-image: url(Images/BottomBackground.jpg); text-align: center; direction: ltr; height: 55px;  } 
+TD.Bottom A { color: #838385;  } 
+TD.BottomBeforeText { display: none;  } 
+TD.BottomAfterText { display: none;  } 
+TABLE.PrivateMessagesButton { border-collapse: collapse;  } 
+TD.PrivateMessagesButtonText { color: White; font-size: 11pt; background-image: url(Images/PrivateMessagesButtonBackground.jpg);  } 
+TD.PrivateMessagesButtonText A { color: White;  } 
+TD.PrivateMessagesButtonTextBefore { background-image: url(Images/PrivateMessagesButtonRightCorner.jpg); width: 12px; height: 18px;  } 
+TD.PrivateMessagesButtonTextAfter { background-image: url(Images/PrivateMessagesButtonLeftCorner.jpg); width: 12px; height: 18px;  } 
+DIV.SA { 
+background-color:#ECEFF6;
+color:#1346AC;
+border-bottom:solid 1px #57609B;
+font-size:9pt;
+font-weight:bold;
+padding:3px; }
+P.SA2 { 
+background-color:#ECEFF6;
+color:#1346AC;
+border-bottom:solid 1px #57609B;
+font-size:9pt;
+font-weight:bold;
+padding:3px;
+align:left; }
+div.message {
+
+	width: 50%;
+
+	border: 2px solid #E1e1e1;
+
+	background: #F9F9F9;
+
+	font-size: 10px;
+
+	color: #000000;
+
+	padding: 5px 0 5px 0;
+
+	text-align: center;
+
+	line-height: 17px;
+
+	align: center;
+
+}
